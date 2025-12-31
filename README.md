@@ -13,7 +13,7 @@ The analysis focuses on answering two primary questions:
 
 ## Tech Stack & Skills
 
-* **Tool:** MySQL / PostgreSQL (or your specific SQL flavor)
+* **Tool:** MySQL
 * **Skills:** * Data Cleaning & Type Casting
 * Table Joins (`LEFT`, `INNER`)
 * Aggregations (`COUNT`, `SUM`, `AVG`)
