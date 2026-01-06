@@ -81,3 +81,8 @@ By joining the tables, I analyzed which cuisines and items generated the highest
 1. Download the `.sql` files provided in this repository.
 2. Import the datasets into your SQL Workbench.
 3. Execute the queries in order to replicate the analysis.
+
+---
+
+**Project Completed by:** David Kovacs
+**Guided by:** Maven Analytics
